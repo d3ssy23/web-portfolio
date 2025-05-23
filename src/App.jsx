@@ -1,7 +1,7 @@
 import { useState } from "react";
 import reactLogo from "./assets/react.svg";
 import viteLogo from "/vite.svg";
-import Header from "./components/header";
+import Header from "./components/Header";
 import Readme from "./components/Readme";
 import Dev from "./components/Dev";
 import Audio from "./components/Audio";
