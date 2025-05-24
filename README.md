@@ -1,4 +1,4 @@
-# 🎨 Personal Portfolio Website
+#  Personal Portfolio Website
 
 This is my personal portfolio website built with **React**, **Vite**, and **Tailwind CSS**, and served using a basic **Node.js + Express** backend.
 
@@ -20,10 +20,13 @@ This is my personal portfolio website built with **React**, **Vite**, and **Tail
 ## 📁 Project Structure
 
 ├── public/ # Static assets
+
 ├── src/ # React components and pages
-├── index.html # Entry HTML
+
 ├── package.json # Frontend dependencies
+
 ├── vite.config.js # Vite config
+
 ├── server.js # Express backend (serves the build)
 
 
