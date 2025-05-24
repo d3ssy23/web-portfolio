@@ -1,0 +1,65 @@
+Desislava Ilieva
+
+Software engineer/ Audio Engineer
+A passionate traveller and geek,an audio engineer and C/ C++ developer.
+
+With 10 years experience in audio engineering, and exploration of digital/analogue technology.
+
+I enjoy working close to the hardware, understanding how things work under the hood, and solving problemss
+Stack:
+C (C99)
+C++ (modern C++/11/14/17/20)
+Bash scripts
+Matlab (scripting, signal plotting)
+OpenGL
+Tools:
+GCC
+Valgrind
+Make
+CMake
+Git & Github
+Platforms:
+Linux (Ubuntu, Arch, Fedora)/Unix
+Windows (VM)
+Skills & Concept:
+Memory management
+System calls
+Data structures & Algorithms OOP
+Skills & Concepts:
+Studio/Live Recordings
+FoH engineering
+Field recording mic arrangements
+On-stage signal routing and cable management
+On-stage signal routing and cable management
+Post-production
+FX processing
+Dante Certification
+PA system Calibration (Sonarworks)
+FX chains, sub groups, bus routing
+Analog/digital routing
+Audio Technologies & Tools:
+DAWs (Ableton, Logic X, Reaper, Studio One)
+VS3,AU,AAX
+Digital/Analog Mixers
+Amps/DI/Cabinets
+Sonarworks SoundID
+Clocking BNC
+Matlab (filter Designer)
+JUCE(in progress..)
+Education:
+
+Bachelor “Audio engineering” NBU, Sofia, Bulgaria
+42 coding school Berlin, Germany
+Work Experience:
+
+Technical Support Specialist
+Antelope Audio.ltd
+Audio production Assistant Antelope Audio.ltd
+
+Work Projects:
+
+FoH Audio Engineer (freelance & HALE3)
+Personal studio project (freelance & event place)
+Event organiser (freelance)
+
+
